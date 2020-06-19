@@ -26,3 +26,4 @@ C:\Users\OA-HOME\source\repos\JWTCoreApi\JWTCoreApi\obj\Debug\netcoreapp3.1\JWTC
 C:\Users\OA-HOME\source\repos\JWTCoreApi\JWTCoreApi\obj\Debug\netcoreapp3.1\JWTCoreApi.dll
 C:\Users\OA-HOME\source\repos\JWTCoreApi\JWTCoreApi\obj\Debug\netcoreapp3.1\JWTCoreApi.pdb
 C:\Users\OA-HOME\source\repos\JWTCoreApi\JWTCoreApi\obj\Debug\netcoreapp3.1\JWTCoreApi.genruntimeconfig.cache
+C:\Users\OA-HOME\source\repos\JWTCoreApi\JWTCoreApi\obj\Debug\netcoreapp3.1\JWTCoreApi.csprojAssemblyReference.cache
